@@ -1,7 +1,3 @@
-# paralax-websites
+# Paralax Website
 
-Multiple paralax websites with cool scrolling effects
-
-## 1
-
-Paralax site with HTML CSS only.
+Paralax website with HTML CSS only
